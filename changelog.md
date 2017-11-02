@@ -11,3 +11,6 @@
 
 ## v0.0.3 (2 Nov. 2017)
 - (Fix) Fixed an issue with the settings not being saved.
+
+## v0.0.4 (2 Nov. 2017)
+- (Enh) Updated the settings file structure.
