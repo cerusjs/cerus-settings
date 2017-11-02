@@ -1,0 +1,17 @@
+{
+	"name": "cerus-settings",
+	"version": "0.0.1",
+	"description": "The settings module for CerusJS",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/cerusjs/cerus-settings.git"
+	},
+	"author": "cerusjs",
+	"bugs": {
+		"url": "https://github.com/cerusjs/cerus-settings/issues"
+	},
+	"scripts": {},
+	"homepage": "https://github.com/cerusjs/cerus-settings",
+	"dependencies": {} 
+}
