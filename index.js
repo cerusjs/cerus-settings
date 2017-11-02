@@ -1,7 +1,3 @@
-"use strict";
-
-//module.exports = require("./lib/settings");
-
 module.exports = function() {
 	var self = {};
 
