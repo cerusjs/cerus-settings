@@ -1,6 +1,6 @@
 {
 	"name": "cerus-settings",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"description": "The settings module for CerusJS",
 	"main": "index.js",
 	"repository": {
