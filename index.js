@@ -6,7 +6,10 @@ module.exports = function() {
 	self.version = package["version"];
 
 	var settings = require("./lib/settings")();
-	self.settings = settings.settings;
+
+	self.settings = function() {
+		return settings;
+	}
 
 	return self;
 }
